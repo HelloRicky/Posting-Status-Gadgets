@@ -1,0 +1,86 @@
+#header
+{
+    margin-top: 5px;
+    margin-bottom: 10px;
+    width: auto;
+    vertical-align: middle;
+    text-align: center;
+    overflow: hidden;
+    
+}
+
+body
+{   
+    width: 260px;
+    height: 500px;
+    font-family: verdana;
+    font-weight: bold;
+    font-size: 15px;
+    
+}
+
+table
+{
+    margin-top: 5px;
+    margin-bottom: 10px;
+    width: 85%;
+    vertical-align: middle;
+    text-align: center;
+    overflow: hidden;
+}
+
+#imgBackground
+{
+    width: auto;
+    height: auto;
+}
+
+
+.total_row
+{
+    
+    font-size: 25px;
+}
+/*
+
+
+th
+{
+    margin-top: 5px;
+    margin-bottom: 10px;
+    width: auto;
+    vertical-align: middle;
+    text-align: center;
+    overflow: hidden;
+    border:5px solid;
+}
+
+td
+{
+    margin-top: 5px;
+    margin-bottom: 10px;
+    width: auto;
+    vertical-align: middle;
+    text-align: center;
+    overflow: hidden;
+    border:5px solid;
+}
+#imgBackground
+{
+    width: 300px;
+    height: auto;
+}
+
+
+.gadgetSize
+{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: auto;
+    vertical-align: middle;
+    text-align: center;
+    font-size: 15px;
+    overflow: hidden;
+}
+
+*/

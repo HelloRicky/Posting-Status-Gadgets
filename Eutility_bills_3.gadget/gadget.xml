@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<gadget>
+  <name>Eutility Billing</name>
+  <namespace>windows.sdk</namespace>
+  <version>1.0.0.0</version>
+  <author name="Ricky Zheng">
+    <info url="www.eutility.com.au" />
+    <logo src="logo.png" />
+  </author>
+  <copyright>&#169; Eutility.</copyright>
+  <description>Sidebar gadget sample.</description>
+  <icons>
+    <icon height="48" width="48" src="logo.png" />
+  </icons>
+  <hosts>
+    <host name="sidebar">
+      <base type="HTML" apiVersion="1.0.0" src="Eutility_bills_beta.html" />
+      <permissions>Full</permissions>
+      <platform minPlatformVersion="1.0" />
+      <defaultImage src="icon.png" />
+    </host>
+  </hosts>
+</gadget>
